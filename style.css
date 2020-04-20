@@ -318,7 +318,7 @@ header {
 }
 
 .social-media {
-  margin-top: 5rem;
+  margin-top: 10%;
 }
 
 .social-media i {
@@ -331,7 +331,7 @@ header {
   transform: scale(1.1);
 }
 
-.fa-facebook-square:hover {
+.fa-twitter:hover {
   color: #4267b2
 }
 
@@ -339,9 +339,11 @@ header {
   color: #4267b2;
 }
 
-
+.fa-codepen:hover{
+  color: #4267b2;
+}
 .fa-github:hover {
-  color: rgb(51, 51, 51);
+  color: #4267b2;
 }
 
 /*End about*/
