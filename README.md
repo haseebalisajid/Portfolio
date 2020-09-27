@@ -1,7 +1,7 @@
-### My Portfolio
+## My Portfolio
 
 
-## Languages & Tools used :
+### Languages & Tools used :
 
 <img align="left" alt="haseebalisajid | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="haseebalisajid | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
