@@ -220,6 +220,17 @@ header {
   user-select: none;
   line-height: 1.1;
 }
+.landing-text h2 {
+  font-size: 3rem;
+  font-weight: 500;
+  font-family: "Kaushan Script", sans-serif;
+  background: linear-gradient(to top, #31c29e 25%, #9d33bb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 1rem;
+  user-select: none;
+  line-height: 1.1;
+}
 
 .landing-text h6 {
   font-family: "Open Sans", "sans-serif";
